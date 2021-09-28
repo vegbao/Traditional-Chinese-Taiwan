@@ -1,6 +1,7 @@
 <?php
 // 繁體中文（台灣）.php
 // Traditional Chinese ( Taiwan ) language pack.
+// 2021.09.28 by VegBao https://www.vegbao.com
 
 $language = array(
 
