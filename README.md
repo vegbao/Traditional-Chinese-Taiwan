@@ -20,3 +20,6 @@ The translation was based on [English (casual)](https://github.com/geteso/eso/bl
 4. Go Dashboard>Forum settings / 到 Dashboard>Forum settings 頁面
 5. Choose "繁體中文（台灣）" / 選擇 "繁體中文（台灣）"
 6. **DONE!** / **大功告成！**
+
+*Tip: Must rename folder name to "繁體中文（台灣）", it'll show the right title for language choose.
+<br>*提醒：下載壓縮檔後記得將資料夾名稱重新命名為「繁體中文（台灣）」，才會在後台顯示為中文選項。
