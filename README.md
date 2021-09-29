@@ -15,7 +15,7 @@ The translation was based on [English (casual)](https://github.com/geteso/eso/bl
 ## How to install? / 如何安裝？
 
 1. Download Release Zip / 下載釋出的壓縮檔
-2. Unzip and upload folder to "languages/" / 解壓縮並上傳資料夾到 "languages/" 內
+2. Unzip and upload to "languages/" / 解壓縮並上傳到 "languages/" 內
 3. Login to forum as admin / 以管理員身份登入論壇
 4. Go `Dashboard` -> `Forum settings` / 到 `Dashboard` -> `Forum settings` 頁面
 5. Choose "繁體中文（台灣）" / 選擇「繁體中文（台灣）」
